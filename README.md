@@ -12,7 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h1>📚 STACKS</h1></div>
+
+
+<div align = center>
+  
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldsbs%2Fwldsbs&count_bg=%23C69FFF&title_bg=%23553F8E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br></div>
+  
+  
+<div align = center>
+ [![wldsbs's github stats](https://github-readme-stats.vercel.app/api?username=wldsbs&themes=buefy)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldsbs&layout=compact&themes=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
+ </div>
+  
+<div align=center><h3>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -43,12 +55,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=black">
   <br>
 </div>
+  
 
-<div align = center>
-  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldsbs%2Fwldsbs&count_bg=%23C69FFF&title_bg=%23553F8E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
- [![wldsbs's github stats](https://github-readme-stats.vercel.app/api?username=wldsbs&themes=buefy)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldsbs&layout=compact&themes=buefy)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
