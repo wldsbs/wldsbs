@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldsbs%2Fwldsbs&count_bg=%23C69FFF&title_bg=%23553F8E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
- [![wldsbs's github stats](https://github-readme-stats.vercel.app/api?username=wldsbs)](https://github.com/anuraghazra/github-readme-stats)
+ [![wldsbs's github stats](https://github-readme-stats.vercel.app/api?username=wldsbs&themes=buefy)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldsbs&layout=compact&themes=buefy)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
