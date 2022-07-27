@@ -5,7 +5,7 @@
   
    <div>
   
- [![wldsbs's github stats](https://github-readme-stats.vercel.app/api?username=wldsbs&hide=starts&themes=buefy)](https://github.com/anuraghazra/github-readme-stats)
+ [![wldsbs's github stats](https://github-readme-stats.vercel.app/api?username=wldsbs&hide=stars&themes=buefy)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldsbs&layout=compact&themes=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
  </div>
   
