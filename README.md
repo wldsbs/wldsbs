@@ -3,8 +3,9 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldsbs%2Fwldsbs&count_bg=%23C69FFF&title_bg=%23553F8E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
   </div>
   
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wldsbs&show_icons=true&theme=dracula)
 
-  
+
 <div align=center><h3>📚 Skills</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
